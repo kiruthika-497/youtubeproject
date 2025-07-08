@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    }
+      .searchs {
+        font-size: 10px;
+        width: 60px;
+        
+        
+      }
+      .searchss {
+        font-size: 10px;
+        width: 60px;
+      }
+      .email {
+        width: 132px;
+        display: block;
+        font-size: 10px;
+        margin-top: 4px;
+        margin-bottom: 5px;
+        
+        
+      }
+      .sign {
+        font-size: 10px;
+        background-color: rgb(0, 123, 255);
+        border: none;
+        color: white;
+        padding-left: 51px;
+        padding-right: 51px;
+        padding-bottom:6px ;
+        padding-top: 6px;
+        border-radius: 3px;
+
+      }
+  <body>
+    <input  class="searchs" type="text" placeholder="First name">
+    <input  class="searchss" type="text" placeholder="First name">
+    <input  class="email" type="text" placeholder="Email">
+    <button class="sign">Sign Up</button>
+
+    </body>
+  </head>
+  </html>
+  
