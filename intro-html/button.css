@@ -1,0 +1,68 @@
+now-button {
+ background-color: black;
+ color: white;
+ height: 39px;
+ width: 120px;
+ margin-right: 10px ;
+ transition: opacity 0.15s;
+ }
+ .now-button:hover {
+ opacity: 0.7;
+ }
+ .now-button:active {
+  opacity:0.5;
+ }
+  
+  .add-button {
+    background-color: yellow;
+  color: black;
+  height: 39px;
+  width: 250px;
+  border: none;
+  border-radius: 20px;
+  font-size: 20px;
+  margin-right: 10px;
+  transition: opacity 0.15s;
+
+ }
+  .add-button:hover {
+    background-color: yellowgreen;
+  }
+ .sign {
+  background-color: rgb(11, 136, 11);
+  height: 39px;
+  width: 120px;
+  border: none; 
+  color: white;
+  font-size: 18px;
+  border-radius: 5px;
+  font-style: unset;
+  transition: box-shadow 1s;
+
+ }
+  .sign:hover {
+    box-shadow: 5px 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+  }
+  .kk {
+    background-color: green;
+    color: white;
+    padding-right: 10px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-top: 7px;
+    margin-right: 10px;
+    margin: none;
+    margin-top: 10px;
+
+  }
+  .ss {
+    background-color: green;
+    color: white;
+    padding-right: 10px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-top: 7px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
